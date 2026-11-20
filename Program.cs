@@ -2,9 +2,13 @@
 {
     internal class Program
     {
+        // this is the code after push
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Githup.");
+            for (int i = 1; i <+ 10; i++)
+            {
+                Console.WriteLine("Test Githup." + i);
+            }
         }
     }
 }
