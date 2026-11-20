@@ -2,16 +2,16 @@
 {
     internal class Program
     {
+
+
         // this is the code after push
         static void Main(string[] args)
         {
-            for (int i = 1; i <+ 10; i++)
+            int add(int x, int y)
             {
-                Console.WriteLine("Test Githup." + i);
+                return x + y;
             }
-
-            Console.WriteLine("hi this is the second push");
-            Console.WriteLine("bab");
+            Console.WriteLine(add(2,5));
         }
     }
 }
