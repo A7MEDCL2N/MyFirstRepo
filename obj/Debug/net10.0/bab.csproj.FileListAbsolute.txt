@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\bab\bab\bin\Debug\net10.0\bab.exe
+C:\Users\dell\source\repos\bab\bab\bin\Debug\net10.0\bab.deps.json
+C:\Users\dell\source\repos\bab\bab\bin\Debug\net10.0\bab.runtimeconfig.json
+C:\Users\dell\source\repos\bab\bab\bin\Debug\net10.0\bab.dll
+C:\Users\dell\source\repos\bab\bab\bin\Debug\net10.0\bab.pdb
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.AssemblyInfo.cs
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.dll
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\refint\bab.dll
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.pdb
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.genruntimeconfig.cache
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\ref\bab.dll
+C:\Users\dell\source\repos\bab\bab\obj\Debug\net10.0\bab.csproj.Up2Date
